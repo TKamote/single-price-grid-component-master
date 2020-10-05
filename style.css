@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(230, 230, 201);
+}
+.heading {
+    background-color: seashell;
+    box-sizing: border-box;
+    padding: 25px;
+    font-family: 'Karla', sans-serif;
+}
+.heading h3 {
+    padding: 10px 0 20px 0;
+}
+.heading h4 {
+    padding: 0 0 20px 0;
+    
+}
+.heading p {
+    line-height: 30px;
+
+}
+
+.contents {
+    box-sizing: border-box;
+    padding: ;
+    font-family: 'Karla', sans-serif;
+
+}
+.pricing {
+    border: solid 2px rgb(17, 16, 16);
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: hsl(179, 62%, 43%);
+}
+.pricing h3 {
+    padding: 10px 0 20px 0;
+}
+button {
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: hsl(71, 73%, 54%);
+    font-size: .9rem;
+    color: white;
+}
+.our-advantage {
+    border: solid 4px rgb(176, 228, 166);
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: ;  
+}
+.our-advantage h3 {
+    padding: 10px 0 20px 0;
+}
+ul {
+    text-decoration-style: none;
+}
+
