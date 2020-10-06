@@ -6,6 +6,7 @@ body {
     margin: 50px 30px 50px 30px;
     background-color: hsl(204, 43%, 93%);
     font-size: .95em;
+    width: 370px;
 }
 .heading {
     background-color: white;
@@ -27,7 +28,6 @@ body {
 }
 .contents {
     box-sizing: border-box;
-    padding: ;
     font-family: 'Karla', sans-serif;
 }
 .pricing {
@@ -50,7 +50,7 @@ body {
     vertical-align: top;
 }
 button {
-    width: 300px;
+    width: 60vw;
     height: 50px;
     border: none;
     border-radius: 8px;
@@ -58,6 +58,8 @@ button {
     font-size: .9rem;
     color: white;
     margin-top: 30px;
+    padding-left: 50%;
+    padding-right: 50%;
 }
 .our-advantage {
     box-sizing: border-box;
@@ -65,14 +67,13 @@ button {
     background-color:hsl(179, 62%, 49%);
     color: white;
     border-radius: 0 0 10px 10px;
+    margin-bottom: 30px;
 }
 .our-advantage h3 {
     padding: 10px 0 20px 0;
 }
-
 li {
     list-style-type: none;
-    line-height: 30px;
-    
+    line-height: 30px;  
 }
 
