@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 600px) {
     body {
         margin: 50px 30px 50px 30px;
         background-color: hsl(204, 43%, 93%);
@@ -50,6 +50,9 @@
         align-self: center;
         vertical-align: top;
     }
+    .pricing .access {
+        padding-bottom: 20px;
+    }
     button {
         width: 270px;
         height: 50px;
@@ -58,9 +61,7 @@
         background-color: hsl(71, 73%, 54%);
         font-size: .9rem;
         color: white;
-        margin-top: 30px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin: 0 auto;
     }
     .our-advantage {
         box-sizing: border-box;
